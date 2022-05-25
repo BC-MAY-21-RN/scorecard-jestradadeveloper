@@ -19,7 +19,7 @@ sidebar:
   github: jestradadeveloper
   gitlab:
   bitbucket:
-  twitter: '@ItriMakena'
+  twitter: "@ItriMakena"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,21 +32,20 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Communication
-      link: 
+      link:
     - item: Team Work
-      link: 
+      link:
     - item: Time Management
-      link: 
+      link:
     - item: Problem Solving
-      link: 
+      link:
     - item: Willingness to learn
-      link: 
+      link:
     - item: Adaptability
-      link: 
+      link:
     - item: Communication
       link: # dejar en blanco
 
@@ -62,7 +61,7 @@ career-profile:
     very relaxing. I also go to the gym regularly. I like to swim and go out on
     weekends to explore hidden places in the mountains.I like the discipline,
     and my greatest quality is that I am very persistent.
-    
+
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Computer Systems Engineer
@@ -70,13 +69,11 @@ educationcomplete:
     time: 2011 Aug - 2017 Aug
     details: |
 
-
-
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Ruby On Rails Web Developer
     time: 2019 - Present
-    company: 'Villagroup'
+    company: "Villagroup"
     details: >
       My position was as a ruby on rails web developer. My experience working
       for the 
@@ -104,7 +101,7 @@ experiences:
 
   - role: PHP Fullstack Web Developer
     time: 2017 - 2019
-    company: 'OH Travel Marketing, Puerto Vallarta'
+    company: "OH Travel Marketing, Puerto Vallarta"
     details: >
       I worked for oh marketing for 2 years where I was a web developer, 
       initially doing several projects focused on the tourism sector, mainly for
@@ -120,25 +117,24 @@ experiences:
       was a project on we worked for a big hotel reservations chain in the
       Caribbean
       in which we made the website using Laravel.
-      
+
 # Registra aquí los proyectos en los que has participado
 projects:
-    title: Projects
-    
-    assignments:
-      - title: OhMarketing
-        link: "https://oh.marketing/"
-        tagline: "A responsive website created to show a marketing company projects and its services with Wordpress"
+  title: Projects
 
-      - title: KangarooApp
-        link: "http://kagaroo-app.herokuapp.com/"
-        tagline: "A responsive landing page designed to share family and friends expenses with Ruby On Rails"
+  assignments:
+    - title: OhMarketing
+      link: "https://oh.marketing/"
+      tagline: "A responsive website created to show a marketing company projects and its services with Wordpress"
 
-      - title: TiendaIntensa
-        link: "https://tienda.intensa.mx/"
-        tagline: "A responsive website store for girl empowerment thoughs products like shirts, quotes and motivation cards made with Wordpress and Woocommerce"
+    - title: KangarooApp
+      link: "http://kagaroo-app.herokuapp.com/"
+      tagline: "A responsive landing page designed to share family and friends expenses with Ruby On Rails"
 
-        
+    - title: TiendaIntensa
+      link: "https://tienda.intensa.mx/"
+      tagline: "A responsive website store for girl empowerment thoughs products like shirts, quotes and motivation cards made with Wordpress and Woocommerce"
+
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -149,15 +145,15 @@ skills:
   title: Technical Skills
   toolset:
     - name: Ruby on Rails
-      level: 90%  
+      level: 90%
     - name: Javascript
-      level: 90%    
+      level: 90%
     - name: Git
-      level: 90%         
+      level: 90%
     - name: React
       level: 90%
     - name: Next Js
-      level: 80%            
+      level: 80%
     - name: Python
       level: 50%
     - name: Wordpress
